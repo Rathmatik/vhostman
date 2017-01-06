@@ -1,0 +1,28 @@
+{
+  "name": "vhostman",
+  "version": "1.0.0",
+  "description": "Virtual Host Manager",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js vhostman",
+    "stop": "pkill vhostman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rathmatik/vhostman.git"
+  },
+  "keywords": [
+    "virtual",
+    "host",
+    "vhost"
+  ],
+  "author": "Matthew Borders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rathmatik/vhostman/issues"
+  },
+  "homepage": "https://github.com/Rathmatik/vhostman#readme",
+  "dependencies": {
+    "bouncy": "^3.2.2"
+  }
+}

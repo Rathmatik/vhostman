@@ -1,0 +1,10 @@
+{
+  "host1.local": {
+    "hostname": "host1",
+    "port": 3001
+  },
+  "host2.local": {
+    "hostname": "host2",
+    "port": 3002
+  }
+}
